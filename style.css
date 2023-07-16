@@ -9,5 +9,6 @@ body{
 
 img{
     border: 5px solid white;
-    width: 35vw;
+    width: 30vw;
+    margin-top: 20px;
 }
